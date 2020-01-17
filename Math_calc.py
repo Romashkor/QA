@@ -1,3 +1,5 @@
+### Python 3.x only
+
 import math
 
 print("Hi. This is simple calculation software.")

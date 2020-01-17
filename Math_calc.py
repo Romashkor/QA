@@ -31,8 +31,6 @@ while y > 4 or y < 0:
     4. Calculate the square
     :"""))
 
-
-
 if y == 1:
     print("sin x = ", math.sin(float(x)))
 elif y == 2:

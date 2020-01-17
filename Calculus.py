@@ -4,7 +4,6 @@ x = int(input("Enter x = "))
 y = int(input("Enter y = "))
 #operation = input("Enter operation : ")
 
-##Hi
 ### Формальные параметры
 def add(a,b):
     """ doc """

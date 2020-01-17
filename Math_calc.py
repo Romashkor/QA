@@ -20,7 +20,6 @@ while True:
         3. Calculate log
         4. Calculate the square
         : """))
-        answer1 = int(y)
         break
     except ValueError:
         print("""It was not a number.""")

@@ -24,7 +24,7 @@ while True:
     except ValueError:
         print("""It was not a number.""")
 
-while y > 4 or y < 0:
+while y > 4 or y < 1:
     y = int(input("""Incorrect value. Please specify what do you want to do with the number :
     1. Calculate sin
     2. Calculate cos

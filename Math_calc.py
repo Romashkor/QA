@@ -3,7 +3,7 @@ import math
 
 print("Hi. This is simple calculation software.")
 x = float(input("Please, indicate your number : "))
-y = int(input("""Please specify what do you want to do with the number : ")
+y = int(input("""Please specify what do you want to do with the number :
     1. Calculate sin
     2. Calculate cos
     3. Calculate log
